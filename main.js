@@ -16,6 +16,9 @@ textos[j].classList.add("ativo");
 
 const contadores = document.querySelectorAll(".contador");
 const tempoObjetivo1 = new Date("2026-12-18T00;00;00")
+const tempoObjetivo2 = new Date("2026-12-18T00;00;00")
+const tempoObjetivo3 = new Date("2026-12-18T00;00;00")
+const tempoObjetivo4 = new Date("2026-12-18T00;00;00")
 
 
 contadores[0]. textCopntent = calculaTempo(tempoObjetivo1)
